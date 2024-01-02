@@ -1,0 +1,29 @@
+repo_name: emanamr/python-project
+report_id: af8887d3981afc38b671ec7e3835e958
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-02T09:36:35+00:00'
+requested_by: emanamr
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
